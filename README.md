@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/EchoNine/Win6ows-b4tch-b0mbs/blob/master/cm-d.png">
+<img src="https://github.com/EchoNine/Win6ows-b4tch-b0mbs/blob/master/cm-d.gif">
 </p>
 
 
