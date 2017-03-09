@@ -17,7 +17,7 @@
  
  - Just add the name of the program to launch.
 
- - You can hide the bomb by changing the .bat in .exe then adding a icon to the executable with the "bat to exe" software. So ... Be careful!.
+ - You can hide the bomb by changing the .bat into an .exe then adding a icon to the executable with the "bat to exe" software. So ... Be careful!.
 
 
 
